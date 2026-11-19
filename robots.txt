@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /lab8_portfoliopolnoe/css/
+Disallow: /lab8_portfoliopolnoe/js/
+Disallow: /lab8_portfoliopolnoe/images/
+Allow: /lab8_portfoliopolnoe/
+
+Sitemap: https://gazizovakarina07-arch.github.io/lab8_portfoliopolnoe/sitemap.xml
